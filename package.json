@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-shoresh319",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/shoresh319/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Seggev Shoresh <shoresh319@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/shoresh319/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
